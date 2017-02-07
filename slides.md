@@ -11,7 +11,7 @@ This plan outlines the books that I'd like to read and other things I'd like to 
 
 ---
 
-## What kinda books
+## What kind of books
 
 Lets break it down into these categories
 
@@ -37,6 +37,14 @@ Some things on my list (been there forever)
 
 >>>
 
+## Also on my radar
+
+- I Robot - Isaac Asimov
+- Wicked
+- The Minority Report
+- The Cat's Table - Michael Ondaatje
+- David Sedaris
+
 ### Other fiction (unknown unknowns)
 
 I have no idea. You tell me. Especially something I don't know anything about.
@@ -45,8 +53,19 @@ I have no idea. You tell me. Especially something I don't know anything about.
 
 ## Non-fiction 
 
-- [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X)
-- Something by Steven Pinker
+- [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X) - Richard Thaler
+- The Sense of Style - Steven Pinker
+- Quiet - Susan Cain
+
+>>>
+
+## Cool people 
+
+- Dan Ariely (The Honest Truth About Dishonesty)
+- Michio Kaku
+- Richard Feynman
+- Obama
+- Mihaly Csikszentmihalyi (Flow)
 
 ---
 
@@ -57,7 +76,9 @@ So I can keep my job. Some things I need to know.
 - User Experience (UX)
 - Designing bots
 - Usability testing
-- Writing
+- Programming
+- Storage
+- Networks
 
 >>>
 
@@ -67,10 +88,13 @@ So I can keep my job. Some things I need to know.
 - [Designing Bots](https://www.safaribooksonline.com/library/view/designing-bots/9781491974810/)
 - [Think Like a Programmer](https://www.safaribooksonline.com/library/view/think-like-a/9781457169618/)
 
+Take a look at the entire queue at [Safari Books Online](https://www.safaribooksonline.com/home/)
+
 ---
 
-## Online courses (Udacity)
+## Online courses 
 
+List from [Udacity](https://www.udacity.com/)
 - Android Basics 
 - Intro to iOS App Development with Swift
 - OAuth
@@ -83,6 +107,7 @@ So I can keep my job. Some things I need to know.
 
 - Treehouse
 - Udemy
+- Free Code Camp
 - Safari Books Online
 
 ---
